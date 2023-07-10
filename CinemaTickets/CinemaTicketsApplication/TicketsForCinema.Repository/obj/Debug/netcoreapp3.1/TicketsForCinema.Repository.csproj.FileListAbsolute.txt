@@ -1,0 +1,13 @@
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.AssemblyInfo.cs
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\bin\Debug\netcoreapp3.1\TicketsForCinema.Repository.deps.json
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\bin\Debug\netcoreapp3.1\TicketsForCinema.Repository.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\bin\Debug\netcoreapp3.1\TicketsForCinema.Repository.pdb
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.csproj.CopyComplete
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\obj\Debug\netcoreapp3.1\TicketsForCinema.Repository.pdb
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\bin\Debug\netcoreapp3.1\TicketsForCinema.Domain.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Repository\bin\Debug\netcoreapp3.1\TicketsForCinema.Domain.pdb

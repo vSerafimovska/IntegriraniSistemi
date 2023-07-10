@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Service.deps.json
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Service.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Service.pdb
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Repository.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Repository.pdb
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.AssemblyInfo.cs
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.csproj.CopyComplete
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\obj\Debug\netcoreapp3.1\TicketsForCinema.Service.pdb
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Domain.dll
+C:\Users\marti\Desktop\191169\TicketsForCinemaApplication\TicketsForCinema.Service\bin\Debug\netcoreapp3.1\TicketsForCinema.Domain.pdb

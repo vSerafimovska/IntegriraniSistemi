@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lepa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lepa\\.nuget\\packages"
+    ]
+  }
+}
